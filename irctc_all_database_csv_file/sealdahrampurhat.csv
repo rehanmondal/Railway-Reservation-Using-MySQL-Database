@@ -1,0 +1,11 @@
+"Date","Tname","Tno","Avail_Classes","Fare","Timing","seats"
+1,"Kanchan Kanya Express","13173","2S",672,"Dep- 06:35,Arr-10:25",36
+1,"Uttar Banga Express","13187","3A",565,"Dep- 12:05,Arr-17:40",46
+2,"Kanchan Kanya Express","13173","SL",782,"Dep- 06:35,Arr-10:25",78
+2,"Gour Express","13153","2S",486,"Dep- 22:57,Arr-02:15",9
+3,"Uttar Banga Express","13187","SL",790,"Dep- 12:05,Arr-17:40",22
+3,"Padatik Express(PT)","13377","1A",850,"Dep- 23:05,Arr-02:46",149
+4,"Padatik Express(PT)","13377","2A",750,"Dep- 23:05,Arr-02:46",55
+4,"Kanchan Kanya Express","13173","2S",598,"Dep- 06:35,Arr-10:25",16
+5,"Sealdah-Rampurhat Mail","13166","SL",765,"Dep- 05:37,Arr-01:25",5
+5,"Uttar Banga Express","13187","SL",810,"Dep- 12:05,Arr-17:40",4

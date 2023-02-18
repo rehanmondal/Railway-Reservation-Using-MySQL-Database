@@ -1,0 +1,11 @@
+"Date","Tname","Tno","Avail_Classes","Fare","Timing","seats"
+1,"Kanchanjungha Express","13173","SL",975,"Dep- 05:37,Arr-16:12",6
+1,"Teesta-Torsa Express","13189","2A",1025,"Dep- 14:00,Arr-02:30",61
+2,"Teesta-Torsa Express","13189","SL",932,"Dep- 14:00,Arr-02:30",25
+2,"Darjeeling MAil(PT)","13126","SL",1130,"Dep- 22:05,Arr-08:15",51
+3,"Kanchanjungha Express","13173","2A",876,"Dep- 05:37,Arr-16:12",46
+3,"Uttar Banga Express","03159","2S",655,"Dep- 19:40,Arr-06:45",79
+4,"Teesta-Torsa Express","13189","3A",765,"Dep- 14:12,Arr-02:30",17
+4,"Darjeeling Mail(PT)","13126","SL",998,"Dep- 22:05,Arr-08:15",16
+5,"Agartala Mail","23188","2S",672,"Dep- 22:05,Arr-08:15",10
+5,"Uttar Banga Express","03159","SL",955,"Dep- 19:40,Arr-06:45",5
