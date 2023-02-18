@@ -29,6 +29,7 @@ Step - 4 : Insert 1 dummy row to  __userregister__ table to increament autometic
 Step - 5 : After importing all files in all tables must check Column Names must be -> [ Date|Tno|Tname|Avail_Classes|Fare|Timing|Seats ]<br>
 Step - 6 : If Not same Column Name then change this Manually once.<br>
 Step - 7 : Now Runthe 'main.py' and enjoy the code.<br>
+<br>
 <img src="https://user-images.githubusercontent.com/125151906/219899870-fe3f6abc-2e35-4a0c-85e0-a2222fc70051.png" width="40" height="35">
 
 
